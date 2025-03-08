@@ -1,0 +1,23 @@
+[
+    {
+        "stateMutability": "payable",
+        "name": "deposit",
+        "inputs": {
+            "dummy_input": 416
+        }
+    },
+    {
+        "stateMutability": "view",
+        "name": "getBalance",
+        "inputs": {
+            "dummy_input": 320
+        }
+    },
+    {
+        "stateMutability": "nonpayable",
+        "name": "withdraw",
+        "inputs": {
+            "dummy_input": 888
+        }
+    }
+]
